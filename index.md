@@ -27,7 +27,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+- i guess the people are pretty cool
+- who am i kidding i don't see the same person twice
+- i like how we only get this class once a week WOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+- im sorry
+- at least yall seem pretty cool so thats pog
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ඞඞඞඞඞඞඞඞඞඞඞඞ
